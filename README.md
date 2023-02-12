@@ -1,4 +1,4 @@
-# Rule Based Trend Detector With NLP
+# Topic Modelling with BERTopic
 
 # Overview
 ## Task
