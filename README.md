@@ -1,4 +1,4 @@
-# Topic Modelling with BERTopic
+# Retail Topic Modelling with BERTopic
 
 # Overview
 ## Task
